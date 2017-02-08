@@ -12,7 +12,7 @@ The important goals and objectives that have been identified by the client in th
 
 ●	A feature that allows the deselection of University of Toronto maps to view maps of Dalhousie and the surrounding area.
 
-●	Ability to perform accelerated research program testing instead of completing a real time cycle of the eleven week program.\
+●	Ability to perform accelerated research program testing instead of completing a real time cycle of the eleven week program.
 
 ● Map selection and deselection for routing.
 
